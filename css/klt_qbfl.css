@@ -13,7 +13,7 @@ a:hover {
     background-image: url(../image/banner_bg.png);
     position: absolute;
     top: 0;
-    left: 164px;
+    left: 88px;
     z-index: 999;
     font-family: 微软雅黑;
     font-size:14px;
@@ -137,7 +137,7 @@ a:hover {
     height: 402px;
     background-image: url(../image/banner_bg.png);
     position: absolute;
-    right: 64px;
+    right: 88px;
     top: 64px;
     z-index: 999;
 }
